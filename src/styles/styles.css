@@ -1,0 +1,74 @@
+/* Reset some defaults */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Tour card styles */
+  .tour-card {
+    background: white;
+    border-radius: 12px;
+    margin: 1.5rem auto;
+    max-width: 600px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: 0.3s ease;
+  }
+  
+  .tour-img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  
+  .tour-details h2 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  .tour-details h4 {
+    color: #00aaff;
+    font-size: 1.2rem;
+  }
+  
+  .tour-details p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 1rem 0;
+  }
+  
+  .toggle-btn {
+    background: none;
+    border: none;
+    color: #0077cc;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .remove-btn {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.95rem;
+  }
+  
+  .remove-btn:hover {
+    background-color: #e60000;
+  }
+  

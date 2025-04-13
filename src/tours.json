@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Best of Paris in 7 Days",
+    "info": "Explore the charm of Paris in a guided 7-day tour with museums, food, and the Eiffel Tower.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=60",
+    "price": "1995"
+  },
+  {
+    "id": "2",
+    "name": "Explore Rome",
+    "info": "History and art collide in this 5-day deep dive through Rome's iconic landmarks.",
+    "image": "https://images.unsplash.com/photo-1549893074-3e3d0a3d0a5f?auto=format&fit=crop&w=800&q=60",
+    "price": "1549"
+  }
+]
